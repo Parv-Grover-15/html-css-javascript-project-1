@@ -1,0 +1,36 @@
+.email_label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    opacity: 0.6;
+    margin-bottom: 10px;
+    font-family: Roboto, sans-serif;
+}
+
+.email_input {
+    width: 20%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.terms-text {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 10px;
+    font-family: Roboto, sans-serif;
+}
+
+.submit-button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 150px;
+    cursor: pointer;
+    width: 300px;
+}
+
+.submit-button:hover {
+    background-color: #0056b3;
+}
