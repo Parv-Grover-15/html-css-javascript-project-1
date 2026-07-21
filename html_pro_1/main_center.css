@@ -54,4 +54,22 @@
     color: rgb(7, 7, 7);
     transition: all 0.5s ease-in-out;
     cursor: pointer;
+    border: 1px solid black;
+}
+
+.book_now_2{
+    background-color: rgb(102, 40, 247);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-family: 'Poppins', sans-serif;
+    border: none;
+}
+
+.book_now_2:hover{
+    background-color: rgb(129, 79, 244);;
+    color: rgb(10, 10, 10);
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
 }
