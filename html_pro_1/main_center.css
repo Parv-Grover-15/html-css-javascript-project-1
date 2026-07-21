@@ -73,3 +73,35 @@
     transition: all 0.5s ease-in-out;
     cursor: pointer;
 }
+
+.main_text222{
+    background-color: rgba(241, 237, 237, 0.5);
+    border: 1px solid rgb(0, 0, 0);
+    color:aliceblue;
+    margin-top: 30px;
+    align-items: center;
+}
+
+.top_des{
+    font-size: 8px;
+    color: rgb(102, 40, 247);
+    font-family:arial;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.popu{
+    font-size: 15px;
+    color: white;
+    font-family:arial;
+    padding-bottom: 8px;
+    text-align: center;
+}
+
+.explore_more{
+    font-size: 8px;
+    color: rgb(97, 96, 98);
+    font-family:arial;
+    padding-bottom: 8px;
+    text-align: center;
+}
