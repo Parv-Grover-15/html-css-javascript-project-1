@@ -1,0 +1,71 @@
+.options_with_image{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    width: 100%;
+    justify-content: center;
+}
+
+.image_1 img{
+    height: 300px;
+    width: 300px;
+    margin:20px;
+    border-radius: 10px;
+    
+}
+
+.image_11 img{
+    height: 340px;
+    width: 340px;
+    margin:20px;
+    border-radius: 10px;
+}
+
+.option_button{
+    background-color:white;
+    position:relative;
+    top: -95px;
+    left:230px;
+    background-color: rgb(102, 40, 247);
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+    padding-left:15px;
+    padding-right:15px;
+    border: 0px;
+}
+
+.option_button:hover{
+    background-color: rgb(132, 87, 237);
+    cursor:pointer
+}
+
+.option_button1{
+    background-color:white;
+    position:relative;
+    top: -115px;
+    left:230px;
+    background-color: rgb(102, 40, 247);
+    color: white;
+    padding:10px;
+    border-radius: 10px;
+    padding-left:15px;
+    padding-right:15px;
+    border: 0px;
+}
+
+.option_button1:hover{
+    background-color: rgb(132, 87, 237);
+    cursor:pointer
+}
+
+.option_title{
+    color:white;
+    position:absolute
+}
+
+.option_description{
+    color:white;
+    position:absolute
+}
+

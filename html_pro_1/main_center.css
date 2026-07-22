@@ -11,9 +11,10 @@
 .main_text{
     position: absolute;
     top:95px;
-    left: 80px;
+    
     right:1000px;
     padding: 20px;
+    background: transparent;
 }
 
 .explore_one{
